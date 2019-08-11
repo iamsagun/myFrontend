@@ -1,0 +1,32 @@
+.bg-mattBlackLight, body {
+  background-color: #FFC0CB ;
+}
+
+.text-mattBlackLight {
+  color: #FFC0CB ;
+}
+
+.bg-mattBlackDark {
+  background-color: #FFFAFA;
+}
+
+.text-mattBlackDark {
+  color: #FFFAFA;
+}
+
+.bg-mattGray {
+  background-color: #878d8d;
+}
+
+.text-mattGray {
+  color: #878d8d;
+}
+
+.bg-mattRed {
+  background-color: #ec6271;
+}
+
+.text-mattRed {
+  color: #ec6271;
+}
+/*# sourceMappingURL=mycss.css.map */
